@@ -1,2 +1,3 @@
-# I also have to drop the class lmao
+# This is a comment 
 Repo for Lab 3 in CST336
+
